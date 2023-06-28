@@ -1,2 +1,2 @@
 # Arrow
-Attacks against the two PRNG Arrow and Trifork
+Attacks against the two PRNGs Arrow and Trifork
